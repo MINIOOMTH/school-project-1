@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "TheShow",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
